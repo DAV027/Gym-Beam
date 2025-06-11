@@ -7,20 +7,19 @@
 
 ## 🚀 Get Started
 
-### 1️⃣ Install Dependencies
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/DAV027/Gym-Beam.git
+cd Gym-Beam
+```
+
+### 2️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
-```Required Packages
-npm install @react-navigation/native
-npm install @react-navigation/stack
-npm install react-native-safe-area-context
-npm install react-native-screens react-native-gesture-handler react-native-reanimated
-npm install @expo/vector-icons
-```
 
-### 2️⃣ Start the App
+### 3️⃣ Start the App
 
 ```bash
 npm start
